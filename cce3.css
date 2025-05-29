@@ -14,8 +14,9 @@ header{
     padding: 5px 20px;
 }
 .graph{
-    text-align: right;
-    margin-top: 100px;
+    text-align: center;
+    margin-top: 65px;
+    margin-left: 3px;
 }
 .graph img{
     border: 5px solid #ccc;
@@ -23,13 +24,14 @@ header{
 }
 .about{
     color: white;
-    float:left;
-    width: 300px;
+    width: 800px;
     text-align: center;
-    margin-top: 100px;
+    margin-top: 70px;
     border: 2px solid #ccc;
     border-radius: 10px;
-    padding: 5px 20px;
+    padding: 10px 50px;
+    margin-left: 300px;
+
 }
 
 
